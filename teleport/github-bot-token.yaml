@@ -8,5 +8,5 @@ spec:
   bot_name: colormatic-deployer
   github:
     allow:
-      - repository: strideynet/machineid-github-kubernetes-webinar
+      - repository: dumez-k/machineid-github-kubernetes-webinar
         environment: production
