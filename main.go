@@ -44,7 +44,7 @@ const (
 	colorPink  = "LightPink"
 
 	// Change me ! Commit, push, and see the magic happen!
-	configuredColor = colorBlue
+	configuredColor = colorPink
 )
 
 func reqHandler(
